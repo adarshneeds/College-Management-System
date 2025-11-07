@@ -55,8 +55,8 @@ The login page is common for both students and teachers.
 
 | User Type | Username  | Password     |
 | --------- | --------- | ------------ |
-| Student   | `samarth` | `project123` |
-| Teacher   | `trisila` | `project123` |
+| Student   | `adarsh` | `project111` |
+| Teacher   | `aditya` | `project111` |
 
 ---
 
@@ -66,7 +66,7 @@ Visit **[http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin)**
 
 | Username | Password     |
 | -------- | ------------ |
-| `admin`  | `project123` |
+| `admin`  | `project111` |
 
 Create a new superuser:
 
